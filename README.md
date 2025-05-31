@@ -10,4 +10,6 @@ Espero que gostem dos comandos, e fiquem a vontade para usarem em seus bots.
 OBS:
 ⚠️ Este é meu primeiro repositório publicado então peço desculpas caso tenha algo errado. Bom, é isso, até logo!
 
+## Responsável:
+O responsável por essa aplicação é o Ewerton, estou apenas refazendo a base para deixá-la mais atualizada.
 
