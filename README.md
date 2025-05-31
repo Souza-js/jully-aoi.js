@@ -1,4 +1,4 @@
-🚨 A versão usada no projeto foi a `6.4.0` portanto terá constantes erros pois o aoi.js já está em uma versão mais atual e diferente! Então use o projeto somente para ter base para os seus comandos!
+🚨 A versão utilizada no projeto é `v6.10.3`!
 
 ## Introdução: 
 
